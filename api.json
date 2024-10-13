@@ -1,0 +1,131 @@
+{
+  "response": "200",
+  "responseTime": "1.1441895s",
+  "message": "Success",
+  "data": {
+    "dapo": {
+      "berita": [
+        {
+          "title": "Rilis Perbaikan Aplikasi Dapodik Versi 2024.b",
+          "date": "25 Oktober 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/rilis-perbaikan-aplikasi-dapodik-versi-2024-b",
+          "image": "https://dapo.kemdikbud.go.id/files/Thumbnail (1).png",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "Rilis Aplikasi Dapodik Versi 2024.c",
+          "date": "11 Januari 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/rilis-aplikasi-dapodik-versi-2024-c",
+          "image": "https://dapo.kemdikbud.go.id/files/Dapodik 2024c thumbnail (1).png",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "Rilis Aplikasi Dapodik Versi 2024.c",
+          "date": "11 Januari 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/rilis-aplikasi-dapodik-versi-2024-c",
+          "image": "https://dapo.kemdikbud.go.id/files/Dapodik 2024c thumbnail (1).png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Pengisian Evaluasi Satuan Pendidikan Aman Bencana (SPAB) dalam Aplikasi InaRIKS Personal",
+          "date": "02 November 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/pengisian-evaluasi-satuan-pendidikan-aman-bencana-spab-dalam-aplikasi-inariks-personal",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Pencegahan dan Penanganan Kekerasan di Lingkungan Satuan Pendidikan",
+          "date": "04 September 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/pencegahan-dan-penanganan-kekerasan-di-lingkungan-satuan-pendidikan",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_5.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Penyelesaian Residu Data Pendidikan",
+          "date": "21 Agustus 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/penyelesaian-residu-data-pendidikan",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_5.png",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "Rilis Aplikasi Dapodik Versi 2024",
+          "date": "12 Juli 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/rilis-aplikasi-dapodik-versi-2024",
+          "image": "https://dapo.kemdikbud.go.id/files/Thumbnail Dapodik 2024 copy.png",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "UPDATE DAN SINKRONISASI DAPODIK",
+          "date": "20 Juni 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/update-dan-sinkronisasi-dapodik",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_5.png",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "Perpanjangan Pembaruan Data Pokok Pendidikan Tahun 2023 untuk DAK Fisik 2024",
+          "date": "07 April 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/perpanjangan-pembaruan-data-pokok-pendidikan-tahun-2023-untuk-dak-fisik-2024",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_2.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Pembaruan Data Pokok Pendidikan Tahun 2023 dalam rangka Perencanaan 2024 DAK Fisik Bidang Pendidikan",
+          "date": "08 Maret 2023",
+          "link": "https://dapo.kemdikbud.go.id/berita/pembaruan-data-pokok-pendidikan-tahun-2023-dalam-rangka-perencanaan-2024-dak-fisik-bidang-pendidikan",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_2.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Rilis Perbaikan Aplikasi Dapodik Versi 2025.a",
+          "date": "31 Juli 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/rilis-perbaikan-aplikasi-dapodik-versi-2025-a",
+          "image": "https://dapo.kemdikbud.go.id/files/Thumbnail kecil.png",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "Rilis Aplikasi Dapodik Versi 2025",
+          "date": "15 Juli 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/rilis-aplikasi-dapodik-versi-2025",
+          "image": "https://dapo.kemdikbud.go.id/files/dapodik 2025.jpeg",
+          "user": "Admin",
+          "tags": "Aplikasi Dapodik"
+        },
+        {
+          "title": "Masa Pengenalan Lingkungan Sekolah Tahun Ajaran 2024/2025",
+          "date": "03 Juli 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/masa-pengenalan-lingkungan-sekolah-tahun-ajaran-2024-2025",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_2.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Pemberitahuan Penutupan Dapodik untuk Update Pengangkatan Kepala Sekolah Negeri",
+          "date": "19 Maret 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/pemberitahuan-penutupan-dapodik-untuk-update-pengangkatan-kepala-sekolah-negeri",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_5.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        },
+        {
+          "title": "Pemutakhiran Data Pokok Pendidikan Tahun 2024 dalam Rangka Evaluasi DAK Fisik Bidang Pendidikan 2023 dan Perencanaan DAK Fisik Bidang Pendidikan 2025",
+          "date": "27 Januari 2024",
+          "link": "https://dapo.kemdikbud.go.id/berita/pemutakhiran-data-pokok-pendidikan-tahun-2024-dalam-rangka-evaluasi-dak-fisik-bidang-pendidikan-2023-dan-perencanaan-dak-fisik-bidang-pendidikan-2025",
+          "image": "https://dapo.kemdikbud.go.id/files/thumbnail surat_Artboard 3_5.png",
+          "user": "Admin",
+          "tags": "Informasi"
+        }
+      ]
+    }
+  }
+}
