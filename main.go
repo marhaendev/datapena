@@ -69,7 +69,7 @@ type NewsArticle struct {
 func main() {
 	http.HandleFunc("/dapo/berita", beritaHandler)
 	fmt.Println("Server berjalan di port 8080...\nhttp://localhost:8080/dapo/berita")
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	log.Fatal(http.ListenAndServe("0.0.0.0:8080", nil))
 }
 
 // Fungsi untuk menangani permintaan GET dan POST
